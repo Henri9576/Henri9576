@@ -1,6 +1,6 @@
 ### Henrique de Lucca
 
-Sou um desenvolvedor júnior a procura da primeira oportunidade profissional na área de TI.<br>
+Sou um desenvolvedor júnior a procura de uma oportunidade profissional na área de TI.<br>
 Estou cursando o nível superior em Sistemas de Informação na UNIP - Universidade Paulista.<br>
 Possuo inglês avançado com ótima conversação, leitura, escrita e fala, certificado pela EF SET no nível C2 Proficient.
   
